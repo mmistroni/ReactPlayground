@@ -4,7 +4,9 @@
   "description": "React Project following Cousera course",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -19,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/mmistroni/ReactPlayground/issues"
   },
-  "homepage": "https://github.com/mmistroni/ReactPlayground#readme"
+  "homepage": "https://github.com/mmistroni/ReactPlayground#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
