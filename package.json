@@ -1,0 +1,23 @@
+{
+  "name": "reactcoursera",
+  "version": "1.0.0",
+  "description": "React Project following Cousera course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmistroni/ReactPlayground.git"
+  },
+  "keywords": [
+    "React",
+    "JavaScript"
+  ],
+  "author": "mmistroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmistroni/ReactPlayground/issues"
+  },
+  "homepage": "https://github.com/mmistroni/ReactPlayground#readme"
+}
